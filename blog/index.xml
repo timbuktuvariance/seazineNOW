@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on seaZine</title>
-    <link>http://seazine.org/blog/</link>
+    <link>https://seazine.org/blog/</link>
     <description>Recent content in Blogs on seaZine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2019 12:50:46 +0000</lastBuildDate>
     
-	<atom:link href="http://seazine.org/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seazine.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Links</title>
-      <link>http://seazine.org/blog/2019/03/01/creating-a-new-theme/</link>
+      <link>https://seazine.org/blog/2019/03/01/creating-a-new-theme/</link>
       <pubDate>Fri, 01 Mar 2019 12:50:46 +0000</pubDate>
       
-      <guid>http://seazine.org/blog/2019/03/01/creating-a-new-theme/</guid>
+      <guid>https://seazine.org/blog/2019/03/01/creating-a-new-theme/</guid>
       <description>Links http://www.arrancoast.com/</description>
     </item>
     
