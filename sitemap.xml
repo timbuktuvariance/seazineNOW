@@ -3,57 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://seazine.org/blog/2019/03/01/creating-a-new-theme/</loc>
+    <loc>http://seazine.org/blog/2019/03/01/creating-a-new-theme/</loc>
     <lastmod>2019-03-01T12:50:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://seazine.org/blog/</loc>
-    <lastmod>2019-03-01T12:50:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://seazine.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://seazine.org/tags/coast/</loc>
+    <loc>http://seazine.org/blog/</loc>
     <lastmod>2019-03-01T12:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://seazine.org/contact/</loc>
+    <loc>http://seazine.org/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://seazine.org/tags/mpa/</loc>
+    <loc>http://seazine.org/tags/coast/</loc>
     <lastmod>2019-03-01T12:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://seazine.org/tags/scotland/</loc>
+    <loc>http://seazine.org/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://seazine.org/tags/mpa/</loc>
     <lastmod>2019-03-01T12:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://seazine.org/tags/sea/</loc>
+    <loc>http://seazine.org/tags/scotland/</loc>
     <lastmod>2019-03-01T12:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://seazine.org/tags/</loc>
+    <loc>http://seazine.org/tags/sea/</loc>
     <lastmod>2019-03-01T12:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://seazine.org/</loc>
+    <loc>http://seazine.org/tags/</loc>
+    <lastmod>2019-03-01T12:50:46+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://seazine.org/</loc>
     <lastmod>2019-03-01T12:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>seaZine</title>
-    <link>https://seazine.org/</link>
+    <link>http://seazine.org/</link>
     <description>Recent content on seaZine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2019 12:50:46 +0000</lastBuildDate>
     
-	<atom:link href="https://seazine.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seazine.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Links</title>
-      <link>https://seazine.org/blog/2019/03/01/creating-a-new-theme/</link>
+      <link>http://seazine.org/blog/2019/03/01/creating-a-new-theme/</link>
       <pubDate>Fri, 01 Mar 2019 12:50:46 +0000</pubDate>
       
-      <guid>https://seazine.org/blog/2019/03/01/creating-a-new-theme/</guid>
+      <guid>http://seazine.org/blog/2019/03/01/creating-a-new-theme/</guid>
       <description>Links http://www.arrancoast.com/</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://seazine.org/contact/</link>
+      <link>http://seazine.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://seazine.org/contact/</guid>
+      <guid>http://seazine.org/contact/</guid>
       <description>Any questions? Twitter: https://twitter.com/Manuela_de_Rios
 Contact:</description>
     </item>

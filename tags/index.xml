@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on seaZine</title>
-    <link>https://seazine.org/tags/</link>
+    <link>http://seazine.org/tags/</link>
     <description>Recent content in Tags on seaZine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2019 12:50:46 +0000</lastBuildDate>
     
-	<atom:link href="https://seazine.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seazine.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coast</title>
-      <link>https://seazine.org/tags/coast/</link>
+      <link>http://seazine.org/tags/coast/</link>
       <pubDate>Fri, 01 Mar 2019 12:50:46 +0000</pubDate>
       
-      <guid>https://seazine.org/tags/coast/</guid>
+      <guid>http://seazine.org/tags/coast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mpa</title>
-      <link>https://seazine.org/tags/mpa/</link>
+      <link>http://seazine.org/tags/mpa/</link>
       <pubDate>Fri, 01 Mar 2019 12:50:46 +0000</pubDate>
       
-      <guid>https://seazine.org/tags/mpa/</guid>
+      <guid>http://seazine.org/tags/mpa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scotland</title>
-      <link>https://seazine.org/tags/scotland/</link>
+      <link>http://seazine.org/tags/scotland/</link>
       <pubDate>Fri, 01 Mar 2019 12:50:46 +0000</pubDate>
       
-      <guid>https://seazine.org/tags/scotland/</guid>
+      <guid>http://seazine.org/tags/scotland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sea</title>
-      <link>https://seazine.org/tags/sea/</link>
+      <link>http://seazine.org/tags/sea/</link>
       <pubDate>Fri, 01 Mar 2019 12:50:46 +0000</pubDate>
       
-      <guid>https://seazine.org/tags/sea/</guid>
+      <guid>http://seazine.org/tags/sea/</guid>
       <description></description>
     </item>
     
